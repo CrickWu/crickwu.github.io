@@ -5,7 +5,7 @@ title:  "Expectation Maximization"
 categories: math
 tag: EM
 ---
-I try to come up with a short summary for EM. The majority of this summary comes from Chapter 9 in [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#prml-book). Basically, you can read right ending at section `details`. I enclosed a detailed (or overly long) example of mixture Gaussian in the section. You could just skim for the results if the math hurts. The idea behind EM is very clear but when it comes to pratical models, the derivation would be tedious. I guess that's why people (including me) have learnt EM more than once but may hardly link up the gap in-between. For recaping readers, you may go through all the theory parts to see whether the whole system makes any sense.
+I try to come up with a short summary for EM. The majority of this summary comes from Chapter 9 in [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#prml-book). Basically, you can read right ending at section `details`. I enclosed a detailed (or overly long) example of mixture Gaussian in the section. You could just skim for the results if the math hurts. The idea behind EM is very clear but when it comes to pratical models, the derivation would be tedious. I guess that's why people (including me) have learnt EM more than once but may hardly link up the gap in-between. For recapping readers, you may go through all the theory parts to see whether the whole system makes any sense.
 
 As the whole summary is still based on my own understanding, if there's any mistake, feel free to contact me :)
 
@@ -36,6 +36,7 @@ To be specific,
 * `M step`, fix $$q$$ as $$q^{old}$$, $$\theta=\arg\max_{\theta}L(q^{old},\theta)$$
 
 ## Details and Example
+
 ### Details
 Usually, the `E step` is easy. Notice that in `E step`, when we fix $$\theta=\theta^{old}$$, $$p(Z\vert X,\theta^{old})$$ is irrelevant of $$q$$. Besides, we still have
 
