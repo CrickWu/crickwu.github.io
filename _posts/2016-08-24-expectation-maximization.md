@@ -197,3 +197,5 @@ Thus, the `E step` of maximizing $$L(q,\theta)$$ w.r.t. $$q$$ would keep the sam
 
 * `E step`, calculate $$p(Z\vert X,\theta^{old})$$
 * `M step`, compute new $$\theta$$ as $$\theta = \arg\max_{\theta} Q(\theta\vert \theta^{old})+\ln p(\theta)$$
+
+A nice technical report can be found [here](http://dawenl.github.io/files/em.pdf).
