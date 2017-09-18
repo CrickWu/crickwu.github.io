@@ -5,7 +5,7 @@ permalink: /publication/
 ---
 \* indicates equal contribution.
 
-**Deep Learning for Extreme Multi-label Text Classification**
+#### **Deep Learning for Extreme Multi-label Text Classification**
 
 Jingzhou Liu, Wei-Cheng Chang, **Yuexin Wu**, Yiming Yang
 
