@@ -9,7 +9,7 @@ permalink: /publication/
 
 Jingzhou Liu, Wei-Cheng Chang, **Yuexin Wu**, Yiming Yang
 
-**SIGIR 2017** \| [[pdf]](http://dl.acm.org/citation.cfm?id=3080834)
+**SIGIR 2017** \| [[pdf]](http://dl.acm.org/citation.cfm?id=3080834) \| [[code]](https://drive.google.com/open?id=1Si5G_94tdcln1_KnE3VjJtolHwuBvvYv)
 
 ---
 <p></p>
