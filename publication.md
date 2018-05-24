@@ -4,6 +4,24 @@ title: Publication
 permalink: /publication/
 ---
 \* indicates equal contribution.
+#### **Deep Learning for Epidemiological Predictions**
+
+**Yuexin Wu**, Yiming Yang, Hiroshi Nishiura, Masaya Saitoh
+
+**SIGIR 2018** \| [[pdf]](https://raw.githubusercontent.com/CrickWu/crickwu.github.io/master/papers/sigir2018.pdf) \| [[code]](https://github.com/CrickWu/DL4Epi)
+
+---
+<p></p>
+
+#### **Analogical Inference for Multi-Relational Embeddings**
+
+Hanxiao Liu, **Yuexin Wu**, Yiming Yang
+
+**ICML 2017** \| [[pdf]](https://arxiv.org/abs/1705.02426) \| [[code]](https://github.com/quark0/ANALOGY)
+
+---
+<p></p>
+
 
 #### **Deep Learning for Extreme Multi-label Text Classification**
 
