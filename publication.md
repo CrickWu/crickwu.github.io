@@ -4,6 +4,15 @@ title: Publication
 permalink: /publication/
 ---
 \* indicates equal contribution.
+#### **Graph Convolutional Matrix Completion for Bipartite Edge Prediction**
+
+**Yuexin Wu**, Hanxiao Liu, Yiming Yang
+
+**KDIR 2018** (Best Student Paper) \| [[pdf]](http://nyc.lti.cs.cmu.edu/yiming/Publications/wu-kdir18.pdf) \| [[code]](https://github.com/CrickWu/GCMC)
+
+---
+<p></p>
+
 #### **Deep Learning for Epidemiological Predictions**
 
 **Yuexin Wu**, Yiming Yang, Hiroshi Nishiura, Masaya Saitoh
