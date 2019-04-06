@@ -4,6 +4,15 @@ title: Publication
 permalink: /publication/
 ---
 \* indicates equal contribution.
+#### **Switch-based Active Deep Dyna-Q: Efficient Adaptive Planning for Task-Completion Dialogue Policy Learning**
+
+**Yuexin Wu**, Xiujun Li, Jingjing Liu, Jianfeng Gao, Yiming Yang
+
+**AAAI 2019** \| [[pdf]](https://arxiv.org/pdf/1811.07550.pdf) \| [code]
+
+---
+<p></p>
+
 #### **Graph Convolutional Matrix Completion for Bipartite Edge Prediction**
 
 **Yuexin Wu**, Hanxiao Liu, Yiming Yang
