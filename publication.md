@@ -3,6 +3,8 @@ layout: page
 title: Publication
 permalink: /publication/
 ---
+#### Recent works: [Google Scholar](https://scholar.google.com/citations?user=sd0nprMAAAAJ&hl=en)
+
 \* indicates equal contribution.
 #### **Switch-based Active Deep Dyna-Q: Efficient Adaptive Planning for Task-Completion Dialogue Policy Learning**
 
